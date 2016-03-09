@@ -1,4 +1,5 @@
-# Python api to get a list of fresh and fast proxies 
+# Python api to get a list of fresh and fast proxies ( Not working anymore https://theproxisright.com/ is down)
+
 
 ## How to use this module 
 
